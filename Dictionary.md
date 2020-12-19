@@ -11,9 +11,9 @@
 
 # Acciones
   ## OnInit
-  **Import** import { Component, OnInit } from '@angular/core'
-  **Intro clase** export class HeaderComponent implements OnInit{
-  **Función ngOnInit()** - Se ejecuta cuando se ha creado el componente correctamente
+  - **Import** import { Component, OnInit } from '@angular/core'
+  - **Intro clase** export class HeaderComponent implements OnInit{
+  - **Función ngOnInit()** - Se ejecuta cuando se ha creado el componente correctamente
 
 
 # Acciones en etiquetas
