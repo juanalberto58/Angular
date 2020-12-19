@@ -1,8 +1,8 @@
 # Crear Contenedor y Templates
  ## Contenedor    
-   - <ng-container>
+  - <ng-container>
  ## Templates
-   - <ng-template>
+  - <ng-template>
 
 # Condición If en una etiqueta
  ## Ejemplo
