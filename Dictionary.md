@@ -1,17 +1,17 @@
 # Crear Contenedor y Templates
  ## Contenedor    
    - <ng-container>
-## Templates
+ ## Templates
    - <ng-template>
 
 # Condición If en una etiqueta
  ## Ejemplo
-   Utilizaremos *ngIf
+   Utilizaremos ***ngIf**
    - <ng-container *ngIf="">
 
 # Acciones en etiquetas
  ## Crear acción de click en un botón
-  Utilizaremos (click)
+  Utilizaremos **(click)**
    ### Ejemplo
    - <button (click)=""></button>
 
