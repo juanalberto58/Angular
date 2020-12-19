@@ -11,8 +11,8 @@
 
 # Acciones
   ## OnInit
-  - **Import** import { Component, OnInit } from '@angular/core'
-  - **Intro clase** export class HeaderComponent implements OnInit{
+  - **Import** - import { Component, OnInit } from '@angular/core'
+  - **Intro clase** - export class HeaderComponent implements OnInit{
   - **Función ngOnInit()** - Se ejecuta cuando se ha creado el componente correctamente
 
 
@@ -22,3 +22,11 @@
    ### Ejemplo
    - `<button (click)=""></button>`
 
+# Interfaces, Enumeraciones y Casting
+  ## Interfaces
+  - `export interface usuario`
+  - Similar a un struct, sirve para definir la estructura que tendrá un objeto con datos. [Ejemplo](./src/app/components/other/interfaces.ts)
+  ## Enumeración
+  - `enum UserType`
+  - Es una lista de opciones. [Ejemplo](./src/app/components/other/interfaces.ts)
+    
