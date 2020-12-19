@@ -23,6 +23,7 @@
    - `<button (click)=""></button>`
 
 # Interfaces, Enumeraciones y Casting
+  Esto luego hay que importarlo en el componente que se quiera.[Ejemplo](./src/app/components/user/user.component.ts)
   ## Interfaces
   - `export interface usuario`
   - Similar a un struct, sirve para definir la estructura que tendrá un objeto con datos. [Ejemplo](./src/app/components/other/interfaces.ts)
